@@ -3,6 +3,11 @@ As a part of our University Curriculum, we made this project for Database Manage
 This project contains theoretical as well as implementation in SQL.<br>
 If you liked the repo do :star: it.
 
+## Documentation
+- [Software Requirements Specification (SRS)](SRS.md)
+- [Database Schema & SQL Queries](#3-implementation)
+
+
 ## Pre-requisite
 Oracle SQL Server (or) Oracle Community Edition
 
